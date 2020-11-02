@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Thecookie monster greets you!
+The cookie monster greets you too!
 Use the left arrow to go back!
